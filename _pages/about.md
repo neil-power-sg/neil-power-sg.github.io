@@ -19,7 +19,7 @@ My work integrates theoretical algorithm development with cyber-physical validat
 
 # Education
 
-- **Postdoctoral Fellow**, Electrical and Computer Engineering  
+- **Postdoctoral Fellow**, Computer Science and Electrical Engineering 
   West Virginia University, USA
 
 - **Ph.D. in Electrical Engineering**, 2021  
@@ -36,19 +36,16 @@ My work integrates theoretical algorithm development with cyber-physical validat
 # Research Interests
 
 - Distributed optimization and control for power systems
-- Voltage regulation and DER coordination
 - AI/ML-enabled grid operation and optimization
 - Cyber-physical energy systems and resilient architectures
 - Human-in-the-loop and cognitive systems
 - Peer-to-peer energy markets and transactive energy
-- Communication-aware distributed control
-- Hardware-in-the-loop validation and real-time simulation
+
 
 ---
 
 # Current Research Directions
 
-- Distributed voltage control for multiphase unbalanced distribution systems
 - AI/ML-assisted acceleration of distributed optimization algorithms
 - Communication-aware distributed architectures for grid-edge intelligence
 - Cyber-physical validation using hardware-in-the-loop platforms
