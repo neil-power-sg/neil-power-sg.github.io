@@ -9,14 +9,48 @@ redirect_from:
 
 # About Me
 
-I am a Postdoctoral Fellow in Lane Department of Computer Science and Electrical Engineering at West Virginia University. My research focuses on distributed optimization and control for power grids, distributed voltage control, cyber-physical energy systems, and AI/ML-enabled grid operation.
+I am a Postdoctoral Fellow in Electrical and Computer Engineering at West Virginia University. My research focuses on distributed optimization and control for power systems, cyber-physical energy systems, AI/ML-enabled grid operation, distributed energy resource coordination, and resilient architectures for modern electric grids.
 
-My broader research interests include resilient and distributed architectures for modern power systems, grid-edge control, electricity markets, and physics-informed machine learning for optimization and operation.
+My broader research interests include distributed optimization, voltage control in unbalanced distribution systems, grid-edge intelligence, peer-to-peer energy markets, human-in-the-loop cyber-power systems, and machine learning for power system operation and control.
 
-## Research Interests
+My work integrates theoretical algorithm development with cyber-physical validation using hardware-in-the-loop platforms, communication-aware architectures, and real-time experimental testbeds.
+
+---
+
+# Education
+
+- **Postdoctoral Fellow**, Electrical and Computer Engineering  
+  West Virginia University, USA
+
+- **Ph.D. in Electrical Engineering**, 2021  
+  Washington State University, USA
+
+- **M.Tech. in Power and Energy Systems**, 2015  
+  Indian Institute of Technology (IIT) Kharagpur, India
+
+- **B.E. in Electrical Engineering**, 2013  
+  Jadavpur University, India
+
+---
+
+# Research Interests
 
 - Distributed optimization and control for power systems
-- Distribution system voltage control and DER coordination
-- AI/ML-enabled optimal power flow and grid operation
-- Cyber-physical energy systems and HITL validation
-- Resilient grid operation, restoration, and electricity markets
+- Voltage regulation and DER coordination
+- AI/ML-enabled grid operation and optimization
+- Cyber-physical energy systems and resilient architectures
+- Human-in-the-loop and cognitive systems
+- Peer-to-peer energy markets and transactive energy
+- Communication-aware distributed control
+- Hardware-in-the-loop validation and real-time simulation
+
+---
+
+# Current Research Directions
+
+- Distributed voltage control for multiphase unbalanced distribution systems
+- AI/ML-assisted acceleration of distributed optimization algorithms
+- Communication-aware distributed architectures for grid-edge intelligence
+- Cyber-physical validation using hardware-in-the-loop platforms
+- Human-centered resilient operation of cyber-power systems
+- Distributed market architectures for future power distribution systems
