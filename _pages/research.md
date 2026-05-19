@@ -8,7 +8,9 @@ author_profile: true
 # Research Areas
 
 My research focuses on distributed optimization, cyber-physical energy systems, AI/ML-enabled grid operation, and resilient architectures for modern power systems. My work integrates power system optimization, distributed control, communication-aware architectures, machine learning, and human-centered cyber-physical validation for next-generation electric grids.
+
 For a complete list of publications, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=uPxTQ5oAAAAJ&hl=en&oi=ao).
+
 ---
 
 ## Distributed Optimization and Control
