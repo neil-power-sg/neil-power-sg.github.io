@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a Postdoctoral Fellow in Electrical and Computer Engineering at West Virginia University. My research focuses on distributed optimization and control for power grids, distributed voltage control, cyber-physical energy systems, and AI/ML-enabled grid operation.
+I am a Postdoctoral Fellow in Lane Department of Computer Science and Electrical Engineering at West Virginia University. My research focuses on distributed optimization and control for power grids, distributed voltage control, cyber-physical energy systems, and AI/ML-enabled grid operation.
 
 My broader research interests include resilient and distributed architectures for modern power systems, grid-edge control, electricity markets, and physics-informed machine learning for optimization and operation.
 
