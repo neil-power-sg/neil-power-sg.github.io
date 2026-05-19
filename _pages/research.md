@@ -13,22 +13,25 @@ My research focuses on distributed optimization algorithms for power grids, part
 
 ### Representative Publications
 
-- "ML-Assisted Hyperparameter Tuning for Distributed Voltage Control," IEEE Transactions on Smart Grid  
-  [IEEE Xplore Link](PASTE_LINK_HERE)
+- "Distributed Optimization in Distribution Systems: Use Cases, Limitations, and Research Needs," IEEE Transactions on Power Systems  
+  [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9635694)
 
-- "Distributed Voltage Control for Multiphase Distribution Feeders," IEEE Transactions on Power Systems  
-  [IEEE Xplore Link](PASTE_LINK_HERE)
+- "Distributed Voltage Control for Three-Phase Unbalanced Distribution Systems With DERs and Practical Constraints," IEEE Transactions on Industry Applications  
+  [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9543520)
+
+- "Distributed Optimal Voltage Control Considering Latency and Asynchronous Communication for Three Phase Unbalanced Distribution Systems," IEEE Transactions on Power Systems
+  [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9772269)
 
 ---
 
-## Voltage Control and DER Coordination
+## DER Coordination and Microgrids
 
-Research on distributed Volt/VAR control, inverter coordination, and scalable feeder-wide control architectures.
+Research on Volt/VAR control and energy management systems in microgrids.
 
 ### Representative Publications
 
-- "Adaptive Distributed Volt/VAR Control Under High DER Penetration"  
-  [IEEE Xplore Link](PASTE_LINK_HERE)
+- "Effective Control and Management Scheme for Isolated and Grid Connected DC Microgrid,"  IEEE Transactions on Industry Applications
+  [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9165217)
 
 ---
 
@@ -38,8 +41,8 @@ Application of machine learning and physics-informed AI methods for optimal powe
 
 ### Representative Publications
 
-- "Ensemble Learning for Hyperparameter Tuning in Distributed Grid Optimization"  
-  [IEEE Xplore Link](PASTE_LINK_HERE)
+- "ML-Assisted Hyperparameter Tuning for Distributed Voltage Control Algorithm in Distribution Systems," 2025 IEEE Texas Power and Energy Conference (TPEC) 
+  [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10907028)
 
 ---
 
@@ -49,8 +52,8 @@ Research involving cyber-physical architectures, communication-aware distributed
 
 ### Representative Publications
 
-- "Cyber-Physical Testbed for Distributed Grid Control"  
-  [IEEE Xplore Link](PASTE_LINK_HERE)
+- "Edge-Driven Distributed Control for Power Distribution: A Real-Time Hardware-in-the-Loop Testbed for Industrial Automation and Applications," IEEE Transactions on Industry Applications
+  [IEEE Xplore Link](https://ieeexplore.ieee.org/document/11457738)
 
 ---
 
@@ -60,16 +63,13 @@ Research involving operator awareness, eye-tracking, GSR analysis, and cognitive
 
 ### Representative Publications
 
-- "Human Performance Assessment in Cyber-Power Systems Using Eye-Tracking and GSR"  
-  [IEEE Xplore Link](PASTE_LINK_HERE)
+- "Augmenting Decision-Making of Human-in-the-Loop Operators for Resilient Cyber-Power Systems," IEEE Transactions on Industrial Cyber-Physical Systems 
+  [IEEE Xplore Link](https://ieeexplore.ieee.org/document/11122608)
 
 ---
 
-## Markets, Resiliency, and Restoration
+## Peer-to-peer Markets in Distribution Grids
 
-Research on resilient distributed architectures, restoration optimization, and market-based coordination.
+Research on distributed architectures for P2P transactions in distribution grids.
 
-### Representative Publications
 
-- "Distributed Restoration Optimization for Resilient Distribution Systems"  
-  [IEEE Xplore Link](PASTE_LINK_HERE)
