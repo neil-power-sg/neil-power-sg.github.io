@@ -28,9 +28,11 @@ Current research directions include communication-aware distributed control, acc
 - "Distributed Optimal Voltage Control Considering Latency and Asynchronous Communication for Three Phase Unbalanced Distribution Systems," IEEE Transactions on Power Systems  
   [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9772269)
 
+<!--
 ### Research Architecture / Framework
 
 ![Distributed Optimization Framework](/images/dist_opt_framework.png)
+-->
 
 ---
 
@@ -45,10 +47,11 @@ Future research directions include distributed energy management, transactive co
 - "Effective Control and Management Scheme for Isolated and Grid Connected DC Microgrid," IEEE Transactions on Industry Applications  
   [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9165217)
 
+<!--
 ### Experimental/Testbed Illustration
 
 ![Microgrid Coordination](/images/microgrid_framework.png)
-
+-->
 ---
 
 ## AI/ML for Power Systems
@@ -62,10 +65,11 @@ Future directions include trustworthy AI for power systems, physics-aware learni
 - "ML-Assisted Hyperparameter Tuning for Distributed Voltage Control Algorithm in Distribution Systems," 2025 IEEE Texas Power and Energy Conference (TPEC)  
   [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10907028)
 
+<!--
 ### AI/ML-Enabled Grid Operation
 
 ![AI/ML Framework](/images/ai_ml_grid.png)
-
+-->
 ---
 
 ## Cyber-Physical Energy Systems
@@ -79,10 +83,11 @@ Current efforts focus on resilient edge intelligence, secure distributed archite
 - "Edge-Driven Distributed Control for Power Distribution: A Real-Time Hardware-in-the-Loop Testbed for Industrial Automation and Applications," IEEE Transactions on Industry Applications  
   [IEEE Xplore Link](https://ieeexplore.ieee.org/document/11457738)
 
+<!--
 ### Cyber-Physical Testbed
 
 ![Cyber Physical Testbed](/images/cphs_testbed.png)
-
+-->
 ---
 
 ## Human-in-the-Loop and Cognitive Systems
@@ -96,10 +101,11 @@ This interdisciplinary work bridges power systems, cyber-physical infrastructure
 - "Augmenting Decision-Making of Human-in-the-Loop Operators for Resilient Cyber-Power Systems," IEEE Transactions on Industrial Cyber-Physical Systems  
   [IEEE Xplore Link](https://ieeexplore.ieee.org/document/11122608)
 
+<!--
 ### Human-in-the-Loop Experimental Setup
 
 ![Human in the Loop Setup](/images/hitl_setup.png)
-
+-->
 ---
 
 ## Peer-to-Peer Markets in Distribution Grids
@@ -112,8 +118,9 @@ Future directions include transactive energy systems, distributed market optimiz
 
 (Add selected publications here)
 
+<!--
 ### P2P Market Coordination Framework
 
 ![P2P Market Framework](/images/p2p_market.png)
-
+-->
 ---
